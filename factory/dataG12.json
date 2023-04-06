@@ -1,0 +1,9 @@
+{
+	"name": "dataG12",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "66cf4f42-1379-48b3-af83-7f88ab4193f7",
+		"tenantId": "016c0ac8-03ee-4ea3-9457-a7c436f56367"
+	}
+}
